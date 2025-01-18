@@ -1,0 +1,1 @@
+The Firebase Realtime Database sometimes returns null values when retrieving data, even if the data exists in the database. This happens inconsistently and without any clear pattern.  The data is structured correctly and other parts of my code can access and write data to the database without issues.
